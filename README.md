@@ -8,6 +8,9 @@
 
 This project implements an **enterprise-grade Retrieval-Augmented Generation (RAG) system** that understands legal contracts — not as raw text, but as a **knowledge graph with semantics, constraints, and risk signals**.
 
+We are using dataset from www.atticusprojectai.org
+Dataset URL : https://www.atticusprojectai.org/cuad
+
 Unlike traditional RAG pipelines that hallucinate or ignore business logic, this architecture combines:
 
 * **Neo4j** — contract ontology and graph relationships
