@@ -212,33 +212,9 @@ That’s the difference between a chatbot and a **contract intelligence engine**
 
 ---
 
-## **🤝 Contributions**
-
-PRs welcome — especially around:
-
-* performance tuning
-* additional risk categories
-* integrating non-CUAD corpora
-
----
-
 ## **📜 License**
 
 CUAD dataset is under **CC-BY 4.0**.
-This codebase is MIT licensed.
 
----
-
-## **⭐ If this helped you**
-
-Consider starring the repo — it helps professionals discover real RAG engineering, not marketing hype.
-
----
-
-## **👤 Author**
-
-**Parth**
-Data Engineer / Graph-RAG Practitioner
-Building AI systems that reason — not hallucinate.
 
 ---
